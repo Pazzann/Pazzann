@@ -1,6 +1,6 @@
 # Welcome to my perfect profile
 
-<img src="https://wakatime.com/badge/user/a9a6a0b4-5214-46c2-92c7-bc0d702b3192.svg" />
+<img src="https://wakatime.com/badge/user/a9a6a0b4-5214-46c2-92c7-bc0d702b3192.svg" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pazzann&count_private=true&theme=midnight-purple&layout=compact%22%3E">
 
 
 ![:nyako-git](https://count.getloli.com/get/@:Pazzan_github?theme=asoul)
