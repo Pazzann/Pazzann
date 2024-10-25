@@ -1,5 +1,8 @@
-# Welcome to my perfect profile
+# Hi <3
 
+<p>
+  <img src="https://cdn.discordapp.com/attachments/933767612830220358/1299457590719418449/ezgif-4-7946958e20.gif?ex=671d45b0&is=671bf430&hm=32a9d32d8a77f4dc86532e0c086f6f09cb8c9408f82fd69145dd4062f1b6c275&" alt="Banner"/>
+</p>
 
 ![:nyako-git](https://count.getloli.com/get/@:Pazzan_github?theme=asoul)
 
