@@ -1,7 +1,7 @@
 # Hi <3
 
 <p>
-  <img src="https://cdn.discordapp.com/attachments/933767612830220358/1299457590719418449/ezgif-4-7946958e20.gif?ex=671d45b0&is=671bf430&hm=32a9d32d8a77f4dc86532e0c086f6f09cb8c9408f82fd69145dd4062f1b6c275&" alt="Banner"/>
+  <img src="https://cdn.discordapp.com/attachments/541691734833496084/1434893611874648074/ezgif-875b33d78d5c69.gif?ex=6909fc50&is=6908aad0&hm=a12da689a0d2acba6cb1db9bb769bdd30cb5e0ff768a8e1d018cb6c0ad2c2394&" alt="Banner"/>
 </p>
 
 ![:nyako-git](https://count.getloli.com/get/@:Pazzan_github?theme=asoul)
