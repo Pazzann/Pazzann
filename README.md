@@ -1,5 +1,7 @@
 # Hi <3
 
+I'm a second-year Mechanical Engineering student with a passion for coding and robotics :)
+
 <p>
   <img src="https://cdn.discordapp.com/attachments/541691734833496084/1434893611874648074/ezgif-875b33d78d5c69.gif?ex=6909fc50&is=6908aad0&hm=a12da689a0d2acba6cb1db9bb769bdd30cb5e0ff768a8e1d018cb6c0ad2c2394&" alt="Banner"/>
 </p>
