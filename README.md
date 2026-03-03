@@ -1,8 +1,8 @@
 # Hi <3
 
-### 🤓 I'm a second-year Mechanical Engineering student with a passion for coding and robotics :)
+### I'm a second-year Mechanical Engineering student with a passion for coding and robotics :)
 
-## 🛠️ And I like building stuff:
+## And I like building stuff:
 
 - 🚙 Mars Rover Control Panel (2026 - now) {Not yet public}
 - [🦿 Quadruped Reinforced Learning (2025 - now)](https://github.com/Pazzann/quadruped-rl)
