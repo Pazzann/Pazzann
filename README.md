@@ -17,7 +17,7 @@
 
 ## Skills I'm most confident in:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,matlab,latex,svelte,bots,discordjs,github&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,matlab,latex,svelte,bots,discordjs,github&perline=4)](https://skillicons.dev)
 
 ## Skills I'm actively improving:
 
@@ -25,7 +25,7 @@
 
 ## Other:
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,dotnet,godot,electron,react,express,nest,nodejs,discord,ps,pr,ai,blender,mysql,vscode,rider,webstorm,clion,arduino&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,dotnet,godot,electron,react,express,nest,nodejs,discord,ps,pr,ai,blender,mysql,vscode,rider,webstorm,clion,arduino&perline=5)](https://skillicons.dev)
 
 
 ## This profile attendance: 
