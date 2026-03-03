@@ -23,7 +23,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,docker,python,ros,ubuntu&perline=9)](https://skillicons.dev)
 
-## Other:
+## General Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=css,html,dotnet,godot,electron,react,express,nest,nodejs,discord,ps,pr,ai,blender,mysql,vscode,rider,webstorm,clion,arduino&perline=5)](https://skillicons.dev)
 
