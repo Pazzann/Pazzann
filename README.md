@@ -15,13 +15,23 @@
 - [🤖 Cross platform Anonim Chat Bot (2022)](https://github.com/Pazzann/anonimbot)
 - [🏪 Another online shop implementation (2022)](https://github.com/Pazzann/gameshop)
 
+## Skills I'm most confident in:
+
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,matlab,latex,svelte,bots,discordjs,github&perline=9)](https://skillicons.dev)
+
+## Skills I'm actively improving:
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,docker,python,ros,ubuntu&perline=9)](https://skillicons.dev)
+
+## Other:
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,dotnet,godot,electron,react,express,nest,nodejs,discord,ps,pr,ai,blender,mysql,vscode,rider,webstorm,clion,arduino&perline=9)](https://skillicons.dev)
 
 
-<p>
-  <img src="https://cdn.discordapp.com/attachments/541691734833496084/1434893611874648074/ezgif-875b33d78d5c69.gif?ex=691dc2d0&is=691c7150&hm=5eaad071ef534e1e2068fc716c5ee7e921e0a7a58aba5b2feccbb86ab2935991&" alt="Banner"/>
-</p>
-
+## This profile attendance: 
 ![:nyako-git](https://count.getloli.com/get/@:Pazzan_github?theme=asoul)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cs,cpp,css,html,matlab,latex,dotnet,godot,electron,svelte,react,express,nest,nodejs,discord,bots,discordjs,ps,pr,ai,blender,mysql,github,vscode,rider,webstorm,clion,arduino,docker,python,ros&perline=9)](https://skillicons.dev)
+<p>
+  <img src="./ayanami.gif" alt="Banner"/>
+</p>
 
