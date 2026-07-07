@@ -4,16 +4,17 @@
 
 ## And I like building stuff:
 
-- 🚙 Mars Rover Control Panel (2026 - now) {Not yet public}
-- [🦿 Quadruped Reinforced Learning (2025 - now)](https://github.com/Pazzann/quadruped-rl)
-- [🦾 PID controller for Kuka Robot (2025)](https://github.com/Pazzann/kuka-PID-controller)
-- [⌛ Project Timer (2024 - now)](https://github.com/Pazzann/project-timer)
-- [🎮 Europe Domination Grand Strategy Game (2023-2024)](https://github.com/Pazzann/EuropeDomination)
-- [🔫 Balistic artillery simulator (2023)](https://github.com/Pazzann/Zenitka)
-- [⛰️ 3D Landscape Generator (2022)](https://github.com/yegorvk/LGTYI)
-- [🤖 Mafia Bot (2022-2024)](https://github.com/Pazzann/mafia-bot)
-- [🤖 Cross platform Anonim Chat Bot (2022)](https://github.com/Pazzann/anonimbot)
-- [🏪 Another online shop implementation (2022)](https://github.com/Pazzann/gameshop)
+- [🧪 Voxel Engine Tools (Just started) (C++) (2026 - now)](https://github.com/Pazzann/voxel_engine_tools)
+- 🧬 Adjustable CAM mechanism analysis (Python, IsaacSim, MATLAB) (not yet public) (2026 - now)
+- [🦿 Quadrupod Reinforced Learning (Python, Isaac Sim) (2025 - now)](https://github.com/Pazzann/quadruped-rl)
+- [🦾 PID controller for Kuka Robot (MATLAB) (2025)](https://github.com/Pazzann/kuka-PID-controller)
+- [⌛ Project Timer (Svelte, TS) (2024 - now)](https://github.com/Pazzann/project-timer)
+- [🎮 Europe Domination Grand Strategy Game (C#, Godot) (2023-2024)](https://github.com/Pazzann/EuropeDomination)
+- [🔫 Balistic artillery simulator (C#, Godot) (2023)](https://github.com/Pazzann/Zenitka)
+- [⛰️ 3D Landscape Generator (Svelte, TS) (2022)](https://github.com/yegorvk/LGTYI)
+- [🤖 Mafia Bot (TS) (2022-2024)](https://github.com/Pazzann/mafia-bot)
+- [🤖 Cross-platform Anonim Chat Bot (TS) (2022)](https://github.com/Pazzann/anonimbot)
+- [🏪 Another online shop implementation (TS, Svelte) (2022)](https://github.com/Pazzann/gameshop)
 
 ## Skills I'm most confident in:
 
