@@ -1,11 +1,12 @@
 # Hi <3
 
-### I'm a second-year Mechanical Engineering student with a passion for coding and robotics :)
+### I'm a third-year Mechanical Engineering student with a passion for coding and robotics :)
 
 ## And I like building stuff:
 
+- ⚙️ Voxel Engine Tools C# & Python Wrappers (Planned)
 - [🧪 Voxel Engine Tools (Just started) (C++) (2026 - now)](https://github.com/Pazzann/voxel_engine_tools)
-- 🧬 Adjustable CAM mechanism analysis (Python, IsaacSim, MATLAB) (not yet public) (2026 - now)
+- 🧬 Adjustable CAM mechanisms analysis (Python, IsaacSim, MATLAB) (not yet public) (2026 - now)
 - [🦿 Quadrupod Reinforced Learning (Python, Isaac Sim) (2025 - now)](https://github.com/Pazzann/quadruped-rl)
 - [🦾 PID controller for Kuka Robot (MATLAB) (2025)](https://github.com/Pazzann/kuka-PID-controller)
 - [⌛ Project Timer (Svelte, TS) (2024 - now)](https://github.com/Pazzann/project-timer)
