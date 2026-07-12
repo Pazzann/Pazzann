@@ -5,7 +5,10 @@
 ## And I like building stuff:
 
 - ⚙️ Voxel Engine Tools C# & Python Wrappers (Planned)
-- [🧪 Voxel Engine Tools (Just started) (C++) (2026 - now)](https://github.com/Pazzann/voxel_engine_tools)
+- [🧪 Voxel Engine Tools (C++) (2026 - now)](https://github.com/Pazzann/voxel_engine_tools):
+    - [⚙️ Voxel Engine Tools C# Wrapper (2026 - now)](https://github.com/Pazzann/voxel_engine_tools_csharp_wrapper)
+    - [🤖 Voxel Engine Tools Godot C# Demo (2026-now)](https://github.com/Pazzann/voxel-engine-tools-godot-demo)
+    - Python wrapper and demo also planned at some point
 - 🧬 Adjustable CAM mechanisms analysis (Python, IsaacSim, MATLAB) (not yet public) (2026 - now)
 - [🦿 Quadrupod Reinforced Learning (Python, Isaac Sim) (2025 - now)](https://github.com/Pazzann/quadruped-rl)
 - [🦾 PID controller for Kuka Robot (MATLAB) (2025)](https://github.com/Pazzann/kuka-PID-controller)
