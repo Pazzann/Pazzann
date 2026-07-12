@@ -4,7 +4,7 @@
 
 ## And I like building stuff:
 
-- ⚙️ Voxel Engine Tools C# & Python Wrappers (Planned)
+
 - [🧪 Voxel Engine Tools (C++) (2026 - now)](https://github.com/Pazzann/voxel_engine_tools):
     - [⚙️ Voxel Engine Tools C# Wrapper (2026 - now)](https://github.com/Pazzann/voxel_engine_tools_csharp_wrapper)
     - [🤖 Voxel Engine Tools Godot C# Demo (2026-now)](https://github.com/Pazzann/voxel-engine-tools-godot-demo)
