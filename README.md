@@ -10,7 +10,7 @@
     - [🤖 Voxel Engine Tools Godot C# Demo (2026-now)](https://github.com/Pazzann/voxel-engine-tools-godot-demo)
     - Python wrapper and demo also planned at some point
 - 🧬 Adjustable CAM mechanisms analysis (Python, IsaacSim, MATLAB) (not yet public) (2026 - now)
-- [🦿 Quadrupod Reinforced Learning (Python, Isaac Sim) (2025 - now)](https://github.com/Pazzann/quadruped-rl)
+- [🦿 Quadruped Reinforced Learning (Python, Isaac Sim) (2025 - now)](https://github.com/Pazzann/quadruped-rl)
 - [🦾 PID controller for Kuka Robot (MATLAB) (2025)](https://github.com/Pazzann/kuka-PID-controller)
 - [⌛ Project Timer (Svelte, TS) (2024 - now)](https://github.com/Pazzann/project-timer)
 - [🎮 Europe Domination Grand Strategy Game (C#, Godot) (2023-2024)](https://github.com/Pazzann/EuropeDomination)
