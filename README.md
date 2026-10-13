@@ -10,21 +10,21 @@
     - [🤖 Voxel Engine Tools Godot C# Demo (2026-now)](https://github.com/Pazzann/voxel-engine-tools-godot-demo)
     - Python wrapper and demo also planned at some point
 - 🧬 Adjustable CAM mechanisms analysis (Python, IsaacSim, MATLAB) (not yet public) (2026 - now)
-- [🦿 Quadruped Reinforced Learning (Python, Isaac Sim) (2025 - now)](https://github.com/Pazzann/quadruped-rl)
+- [🦿 Quadruped Reinforcement Learning (Python, Isaac Sim) (2025 - now)](https://github.com/Pazzann/quadruped-rl)
 - [🦾 PID controller for Kuka Robot (MATLAB) (2025)](https://github.com/Pazzann/kuka-PID-controller)
 - [⌛ Project Timer (Svelte, TS) (2024 - now)](https://github.com/Pazzann/project-timer)
 - [🎮 Europe Domination Grand Strategy Game (C#, Godot) (2023-2024)](https://github.com/Pazzann/EuropeDomination)
-- [🔫 Balistic artillery simulator (C#, Godot) (2023)](https://github.com/Pazzann/Zenitka)
+- [🔫 Ballistic artillery simulator (C#, Godot) (2023)](https://github.com/Pazzann/Zenitka)
 - [⛰️ 3D Landscape Generator (Svelte, TS) (2022)](https://github.com/yegorvk/LGTYI)
 - [🤖 Mafia Bot (TS) (2022-2024)](https://github.com/Pazzann/mafia-bot)
-- [🤖 Cross-platform Anonim Chat Bot (TS) (2022)](https://github.com/Pazzann/anonimbot)
+- [🤖 Cross-platform Anonymous Chat Bot (TS) (2022)](https://github.com/Pazzann/anonimbot)
 - [🏪 Another online shop implementation (TS, Svelte) (2022)](https://github.com/Pazzann/gameshop)
 
 ## Skills I'm most confident in:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,cs,matlab,latex,svelte,bots,discordjs,github&perline=4)](https://skillicons.dev)
 
-## Skills I'm actively use and improve:
+## Skills I actively use and improve:
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,docker,python,ros,ubuntu&perline=9)](https://skillicons.dev)
 
