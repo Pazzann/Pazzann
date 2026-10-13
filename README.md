@@ -4,11 +4,12 @@
 
 ## And I like building stuff:
 
-- 🧬 Adjustable CAM mechanisms analysis (Python, IsaacSim, MATLAB) (not yet public) (2026 - now)
+
 - [🧪 Voxel Engine Tools (C++) (2026 - now)](https://github.com/Pazzann/voxel_engine_tools):
     - [⚙️ Voxel Engine Tools C# Wrapper (2026 - now)](https://github.com/Pazzann/voxel_engine_tools_csharp_wrapper)
     - [🤖 Voxel Engine Tools Godot C# Demo (2026-now)](https://github.com/Pazzann/voxel-engine-tools-godot-demo)
     - Python wrapper and demo also planned at some point
+- 🧬 Adjustable CAM mechanisms analysis (Python, IsaacSim, MATLAB) (not yet public) (2026 - now)
 - [🦿 Quadruped Reinforced Learning (Python, Isaac Sim) (2025 - now)](https://github.com/Pazzann/quadruped-rl)
 - [🦾 PID controller for Kuka Robot (MATLAB) (2025)](https://github.com/Pazzann/kuka-PID-controller)
 - [⌛ Project Timer (Svelte, TS) (2024 - now)](https://github.com/Pazzann/project-timer)
@@ -23,7 +24,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,cs,matlab,latex,svelte,bots,discordjs,github&perline=4)](https://skillicons.dev)
 
-## Skills I'm actively improving:
+## Skills I'm actively use and improve:
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,docker,python,ros,ubuntu&perline=9)](https://skillicons.dev)
 
